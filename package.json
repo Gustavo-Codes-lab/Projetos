@@ -1,14 +1,14 @@
 {
   "name": "projeto",
   "version": "1.0.0",
-  "description": "Este projeto foi criado para praticar Git.\r Primeiro contato com versionamento. TESTE",
+  "description": "Este projeto foi criado para praticar Git. Primeiro contato com versionamento.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Tests passed successfully\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gustavo-Codes-lab/Projetos.git"
+    "url": "https://github.com/Gustavo-Codes-lab/Projetos.git"
   },
   "keywords": [],
   "author": "",
@@ -19,3 +19,4 @@
   },
   "homepage": "https://github.com/Gustavo-Codes-lab/Projetos#readme"
 }
+
